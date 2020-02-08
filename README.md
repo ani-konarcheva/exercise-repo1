@@ -2,4 +2,4 @@
 repository made for exercise
 ggggggggggg
 dddddddddddd
-wwwwwwww
+jjjjjjjjj
